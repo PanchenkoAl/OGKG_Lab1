@@ -1,0 +1,20 @@
+﻿  OGKG_Lab.cpp
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(45,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(162,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(179,30): warning C4805: '==': unsafe mix of type 'bool' and type 'double' in operation
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(179,36): warning C4805: '==': unsafe mix of type 'bool' and type 'double' in operation
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(179,56): warning C4805: '==': unsafe mix of type 'bool' and type 'double' in operation
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(179,62): warning C4805: '==': unsafe mix of type 'bool' and type 'double' in operation
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(217,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(524,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(524,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(525,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(525,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(531,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(1080,105): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(1080,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(1110,113): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(1110,90): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(1138,113): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dwarf\source\repos\OGKG_Lab\OGKG_Lab\OGKG_Lab.cpp(1138,90): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  OGKG_Lab.vcxproj -> C:\Users\dwarf\source\repos\OGKG_Lab\x64\Debug\OGKG_Lab.exe
